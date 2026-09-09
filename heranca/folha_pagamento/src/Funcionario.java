@@ -29,5 +29,7 @@ public abstract class Funcionario {
 
     public double getSalario() {
         return salario;
+
+        public abstract double calcularBonificacao();
     }
 }
