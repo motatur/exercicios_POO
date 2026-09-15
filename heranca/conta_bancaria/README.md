@@ -10,7 +10,7 @@ Projeto focado em aplicar a reutilização de código e a especialização de cl
 * **ContaEmpresarial.java:** Subclasse voltada para contas de pessoas jurídicas, com permissão para empréstimos ou limites diferenciados.
 * **Main.java:** Classe principal para simulação de transações bancárias e testes do polimorfismo.
 
-## 🎯 Conceitos Aplicados
+##  Conceitos Aplicados
 * **Herança:** Reaproveitamento de código da classe pai `ContaBancaria`.
 * **Sobrescrita de Métodos (`@Override`):** Customização de saques e taxas de acordo com o tipo da conta.
 * **Encapsulamento:** Proteção do saldo e atributos sensíveis contra alterações indevidas.
